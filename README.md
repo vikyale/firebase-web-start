@@ -1,3 +1,3 @@
 # firebase-gtk-web-start-rypaai
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/firebase-gtk-web-start-rypaai)
+https://fir-web-codelab-f3fd6.firebaseapp.com/?11111
